@@ -72,7 +72,14 @@ Function Prototypes
 | `114-bst_remove.c`               | `bst_t *bst_remove(bst_t *root, int value);`                                                     |
 | `120-binary_tree_is_avl.c`       | `int binary_tree_is_avl(const binary_tree_t *tree);`                                             |
 | `121-avl_insert.c`               | `avl_t *avl_insert(avl_t **tree, int value);`                                                    |
-| `122-array_to_avl.c`             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
+| `122-array_to_avl.c'             | `avl_t *array_to_avl(int *array, size_t size);`                                                  |
+| `123-avl_remove.c'               | `avl_t *avl_remove(avl_t *root, int value);`                                                     |
+| `124-sorted_array_to_avl.c'      | `avl_t *sorted_array_to_avl(int *array, size_t size);'                                           |                              
+| `130-binary_tree_is_heap.c'      | `int binary_tree_is_heap(const binary_tree_t *tree);'                                            |
+| `131-heap_insert.c'              | `heap_t *heap_insert(heap_t **root, int value)'                                                  |
+| `132-array_to_heap.c'            | `heap_t *array_to_heap(int *array, size_t size);'                                                |
+| `133-heap_extract.c'             | `int heap_extract(heap_t **root);'                                                               |
+| `134-heap_to_sorted_array.c'     | `int *heap_to_sorted_array(heap_t *heap, size_t *size);'                                         |
 
 ## Tasks :page_with_curl:
 
